@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html itemscope="" lang="en" style="" class=" sizes fontface proxy borderradius checked target template no-arrow json objectfit object-fit texttrackapi track cssanimations history flexbox opacity supports csstransforms3d no-time no-contains srcset svg ellipsis hidden smil"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>FuboTV</title>
+    
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+
+
+
+    <meta itemprop="product-version" content="2.0 $(BUILD_BUILDNUMBER)">
+    <meta itemprop="site" content="Lenovo-Promos">
+    <meta itemprop="source-version" content="$(BUILD_SOURCEVERSION)">
+    <meta itemprop="page-id" content="{B4AFCBB1-B7DB-45F7-B726-C557F5070965}">
+    <meta itemprop="page-template" content="Promos Content Page">
+    <meta itemprop="page-templateid" content="{E9952B1B-69CB-49AD-A540-AD1EF0E41575}">
+
+    
+
+            <meta name="robots" content="noindex">
+                    <link rel="canonical" href="https://exclusives.lenovo.com/FuboTV">
+                <link rel="icon" type="image/x-icon">
+    <link href="./FuboTV/FuboTV_files/Lenovo-Promos.css" rel="stylesheet">
+
+    
+    <!--css StandAlone Start-->
+    <link href="./FuboTV/FuboTV_files/core.css" rel="stylesheet">
+    <link href="./FuboTV/FuboTV_files/globalMsg.css" rel="stylesheet">
+    <!--css StandAlone End-->
+    <!--css Component Start-->
+    <link href="./FuboTV/FuboTV_files/m-homePageCategoryBarV2.css" rel="stylesheet">
+    <link href="./FuboTV/FuboTV_files/m-homepageMobileNav.css" rel="stylesheet">
+    <link href="./FuboTV/FuboTV_files/m-eSpotRedesign.css" rel="stylesheet">
+    <link href="./FuboTV/FuboTV_files/slick.css" rel="stylesheet">
+    <link href="./FuboTV/FuboTV_files/m-bannerRedesign.css" rel="stylesheet">
+    <link href="./FuboTV/FuboTV_files/o-tabsModule.css" rel="stylesheet">
+    <link href="./FuboTV/FuboTV_files/m-productCode.css" rel="stylesheet">
+    <link href="./FuboTV/FuboTV_files/m-manualContent.css" rel="stylesheet">
+    <link href="./FuboTV/FuboTV_files/coreFooter.css" rel="stylesheet">
+    <link href="./FuboTV/FuboTV_files/coreMasthead.css" rel="stylesheet">
+    <!--css Component End-->
+ 
+<style>.body { background: #ffffff; }</style>
+
+
+</head>
+<body>
+    
+    
+    
+    <header>
+        
+    </header>
+
+
+
+    <div class="container-fluid cms-lp-page-container">
+        
+
+
+
+
+<!-- Begin: Three-Column Section 1 -->
+<div class="lp-row cms-lp-3c1-container" role="main" aria-label="Three-Column Section 1">
+    <div class="lp-col cms-lp-3c1-container-inner">
+        <div class="lp-row">
+            <div class="lp-col cms-lp-3c1-heading">
+                <h1></h1>
+            </div>
+        </div>
+
+        <div class="lp-row cms-lp-3c1-container-columns">
+
+        </div>
+
+        <div class="lp-row">
+            <div class="lp-col cms-lp-3c1-heading">
+                <h2>
+                    <p style="text-align: left;"><img alt="Lenovo" src="./FuboTV/FuboTV_files/logo1.png" style="height: 64px; width: 198px;"></p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;"><strong><span style="font-size: 18px;">You are leaving Lenovo's website</span></strong></p>
+<p style="text-align: left;">You are leaving Lenovo.com to utilize a web-based application on https://www.fubo.tv, a website that is unaffiliated with Lenovo. Fubo.tv is responsible for the functionality and security of this application. Lenovo makes no representations or warranties as to the interoperability, security, or functionality of the application, and does not guarantee or assume any responsibility for such application. In the event Fubo.tv or the application collects data, their <a rel="noopener noreferrer" href="https://www.fubo.tv/documents/USA/privacy-policy" target="_blank">privacy statement</a> shall apply to the collection, use and storage of such data.</p>
+                </h2>
+            </div>
+        </div>
+        <div class="lp-row">
+            <div class="lp-col flex-grow-0">
+                    <a href="https://fubotv.com/lenovo-preload" type="button" class="btn btn-primary btn-blue" id="btnThreeColumnDownload" target="">Continue</a>
+
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End: Three-Column Section 1-->
+    </div>
+
+    
+    <footer class="container-fluid--highlight">
+        
+    </footer>
+
+</body></html>
